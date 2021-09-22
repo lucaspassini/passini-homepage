@@ -9,7 +9,7 @@ const Navigation = () => {
         <Link href="/">
           <a
             className={
-              "font-medium tracking-wide transition-colors text-gray-900 hover:text-sky-500 dark:text-white"
+              "font-medium tracking-wide transition-colors text-gray-900 hover:text-sky-500 uppercase dark:text-white"
             }
           >
             Lucas Cristiano Passini
