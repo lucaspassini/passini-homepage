@@ -6,13 +6,13 @@
 </p> 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/47937044/134273496-8a3530bf-7ee8-4386-9467-66e47c30244d.png" width="750" alt="Desktop Light" />
-<img src="https://user-images.githubusercontent.com/47937044/134273499-70cbfcc2-0518-421b-b591-75345c4ff06f.png" width="750" alt="Desktop Dark" />
+<img src="https://user-images.githubusercontent.com/47937044/134431079-6c3c0034-a0db-44bc-a408-a77969cac87c.png" width="750" alt="Desktop Light" />
+<img src="https://user-images.githubusercontent.com/47937044/134431083-3b3310cc-462d-44b2-a9ca-c626ea1cd331.png" width="750" alt="Desktop Dark" />
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/47937044/134273495-61612f7f-81ae-48c8-baae-9ef8473e9557.png" width="250" alt="Mobile Light" />
-<img src="https://user-images.githubusercontent.com/47937044/134273491-609de11a-b2c9-46f8-8ae7-3f01e1ebc407.png" width="250" alt="Mobile Dark" />
+<img src="https://user-images.githubusercontent.com/47937044/134431092-e93775b8-1b65-41e7-85e3-ada036cc781b.png" width="250" alt="Mobile Light" />
+<img src="https://user-images.githubusercontent.com/47937044/134431100-8993aaaf-b944-477a-a358-38ee7b34a25d.png" width="250" alt="Mobile Dark" />
 </p>
 
 
