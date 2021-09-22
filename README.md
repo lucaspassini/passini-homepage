@@ -1,4 +1,20 @@
-# Next.js + Tailwind Portfolio
+
+<p align="center">
+    <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="128">
+ 
+## Next.js + Tailwind Portfolio
+</p> 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/47937044/134273496-8a3530bf-7ee8-4386-9467-66e47c30244d.png" width="750" alt="Desktop Light" />
+<img src="https://user-images.githubusercontent.com/47937044/134273499-70cbfcc2-0518-421b-b591-75345c4ff06f.png" width="750" alt="Desktop Dark" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/47937044/134273495-61612f7f-81ae-48c8-baae-9ef8473e9557.png" width="250" alt="Mobile Light" />
+<img src="https://user-images.githubusercontent.com/47937044/134273491-609de11a-b2c9-46f8-8ae7-3f01e1ebc407.png" width="250" alt="Mobile Dark" />
+</p>
+
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
