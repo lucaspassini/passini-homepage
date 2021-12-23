@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/47937044/147209935-af9bcbb0-4820-4fd6-8a2d-45409adb3695.png" width="750" alt="Desktop Light" />
-<img src="https://user-images.githubusercontent.com/47937044/147209951-b98c1b76-0dce-4e91-b251-79a971591e80.png" width="750" alt="Desktop Dark" />
-</p>
-
+<img src="https://user-images.githubusercontent.com/47937044/147279880-0a1d151e-738e-4543-9c10-fa7dba507893.png" width="750" alt="Desktop Light" />
+<img src="https://user-images.githubusercontent.com/47937044/147279887-0526138c-3203-4ba0-9048-149add5b5ffb.png" width="750" alt="Desktop Dark" />
 
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
