@@ -1,19 +1,20 @@
-import React from "react";
-import Image from "next/image";
-import profile from "../public/images/profile.jpg";
+import React from 'react';
+import Image from 'next/image';
+import profile from '../public/images/profile.jpg';
 
 const About = () => {
   return (
     <div className="container px-4 mx-auto">
       <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
         <div className="lg:px-4 lg:mt-12 ">
-          <h1 className="text-2xl font-bold text-gray-900 lg:text-4xl dark:text-white">
+          <h1 className="text-3xl font-bold text-gray-900 lg:text-4xl dark:text-white">
             👋 Hi there, I'm Lucas.
           </h1>
-          <div className="mt-6 text-gray-800 dark:text-white">
+          <div className="mt-6 text-gray-900 dark:text-white">
             <p className="mb-4">
-              I'm a Front-end Developer, enthusiast in learning and applying my
-              knowledge on development technologies.
+              I'm a 22 years old front-end developer. I'm an enthusiast of
+              technology and seeking to learn about new things in the software
+              development area.
             </p>
           </div>
         </div>

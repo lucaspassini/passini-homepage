@@ -1,11 +1,11 @@
-import Head from "next/head";
-import About from "../components/About";
+import Head from 'next/head';
+import About from '../components/About';
 
 export default function Home() {
   return (
     <div className="space-y-14 lg:space-y-24">
       <Head>
-        <title>Lucas Cristiano Passini</title>
+        <title>Lucas Passini</title>
         <link rel="icon" href="favicon.ico" />
       </Head>
 
