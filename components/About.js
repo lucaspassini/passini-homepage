@@ -24,8 +24,8 @@ const About = () => {
             alt="Profile"
             priority={true}
             className="rounded-full"
-            width={200}
-            height={200}
+            width={130}
+            height={130}
             placeholder="blur"
           />
         </div>
