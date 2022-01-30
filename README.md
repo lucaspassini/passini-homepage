@@ -1,10 +1,9 @@
-## Next.js & Tailwind Portfolio
+## `Next.js Homepage`
 
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/47937044/147279880-0a1d151e-738e-4543-9c10-fa7dba507893.png" width="750" alt="Desktop Light" />
-<img src="https://user-images.githubusercontent.com/47937044/147279887-0526138c-3203-4ba0-9048-149add5b5ffb.png" width="750" alt="Desktop Dark" />
 
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
