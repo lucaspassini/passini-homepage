@@ -1,4 +1,5 @@
 import React from 'react';
+import { AiFillGithub, AiFillLinkedin, AiOutlineTwitter } from 'react-icons/ai';
 
 const Footer = () => {
   return (
@@ -14,7 +15,7 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer"
             >
-              GitHub
+              <AiFillGithub size="2em" />
             </a>
             <a
               href="https://www.linkedin.com/in/lucaspassini/"
@@ -22,7 +23,7 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer"
             >
-              LinkedIn
+              <AiFillLinkedin size="2em" />
             </a>
             <a
               href="https://twitter.com/lucaspassini_"
@@ -30,7 +31,7 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Twitter
+              <AiOutlineTwitter size="2em" />
             </a>
           </div>
         </div>

@@ -12,9 +12,9 @@ const About = () => {
           </h1>
           <div className="mt-6 text-gray-900 dark:text-white">
             <p className="mb-4">
-              I'm a 22 years old front-end developer. I'm an enthusiast of
-              technology and seeking to learn about new things in the software
-              development area.
+              I'm a 22 years old front-end developer. As an enthusiast of
+              technology, I enjoy the process of problem-solving and learning
+              about new things in the software development field.
             </p>
           </div>
         </div>

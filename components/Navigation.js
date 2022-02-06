@@ -4,7 +4,7 @@ import ThemeSwitch from '../components/ThemeSwitch';
 
 const Navigation = () => {
   return (
-    <div className="top-3 z-20 py-2 bg-white md:py-6 md:mb-6 dark:bg-transparent">
+    <div className="top-3 z-20 py-10 bg-white md:py-10 md:mb-10 dark:bg-transparent">
       <div className="container px-4 mx-auto lg:max-w-4xl flex items-center justify-between">
         <Link href="/">
           <a
@@ -13,24 +13,6 @@ const Navigation = () => {
             }
           >
             /
-          </a>
-        </Link>
-        <Link href="/projects">
-          <a
-            className={
-              'font-light tracking-normal transition-colors text-gray-800 hover:text-sky-500  dark:text-white'
-            }
-          >
-            /projects
-          </a>
-        </Link>
-        <Link href="/stack">
-          <a
-            className={
-              'font-light tracking-normal transition-colors text-gray-800 hover:text-sky-500  dark:text-white'
-            }
-          >
-            /stack
           </a>
         </Link>
         <ThemeSwitch />
