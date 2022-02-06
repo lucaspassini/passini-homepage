@@ -3,8 +3,9 @@
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/47937044/147279880-0a1d151e-738e-4543-9c10-fa7dba507893.png" width="750" alt="Desktop Light" />
-
+<img src="https://user-images.githubusercontent.com/47937044/152672647-aeae7065-79d5-47e9-a6ff-4d18eb9fc11b.png" width="850" alt="Desktop Light" />
+ 
+ 
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
