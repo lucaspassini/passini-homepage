@@ -3,7 +3,6 @@
 </p>
 
 <p align="left">
-<<<<<<< HEAD
 <img src="https://user-images.githubusercontent.com/47937044/152672647-aeae7065-79d5-47e9-a6ff-4d18eb9fc11b.png" width="650" alt="Desktop Light" />
 
 ## 📕 About
@@ -12,11 +11,6 @@ A static personal homepage made with Next.js, it has a dark mode template and mi
 modern approach.
 
 ## 🧑🏻‍💻 Installation
-=======
-<img src="https://user-images.githubusercontent.com/47937044/152672647-aeae7065-79d5-47e9-a6ff-4d18eb9fc11b.png" width="850" alt="Desktop Light" />
- 
- 
->>>>>>> 43444b27cb2484a567894dadff1b3c624bc2c28e
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
