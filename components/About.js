@@ -18,14 +18,14 @@ const About = () => {
             </p>
           </div>
         </div>
-        <div className="flex-shrink-0 mb-10 lg:mt-10 lg:px-4">
+        <div className="flex-shrink-0 mb-10 lg:mt-6 lg:px-4">
           <Image
             src={profile}
             alt="Profile"
             priority={true}
             className="rounded-full"
-            width={130}
-            height={130}
+            width={160}
+            height={160}
             placeholder="blur"
           />
         </div>
