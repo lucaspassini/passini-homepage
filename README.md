@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/47937044/152672647-aeae7065-79d5-47e9-a6ff-4d18eb9fc11b.png" width="650" alt="Desktop Light" />
+<img src="https://user-images.githubusercontent.com/47937044/153796562-af3c1b78-31b6-4275-9283-82f2465fa539.png" width="650" alt="Desktop Dark" />
 
 ## 📕 About
 
@@ -36,6 +36,5 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 ## 💻 Technologies
 
-- [React Getting Started](https://reactjs.org/docs/getting-started.html)
 - [Next.js](https://nextjs.org/docs)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
