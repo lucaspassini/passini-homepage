@@ -4,12 +4,12 @@ import ThemeSwitch from '../components/ThemeSwitch';
 
 const Navigation = () => {
   return (
-    <div className="top-3 z-20 py-10 bg-white md:py-10 md:mb-10 dark:bg-transparent">
-      <div className="container px-4 mx-auto lg:max-w-4xl flex items-center justify-between">
+    <div className="z-20 py-10 bg-white top-3 md:py-10 md:mb-10 dark:bg-transparent">
+      <div className="container flex items-center justify-between px-4 mx-auto lg:max-w-4xl font-inter">
         <Link href="/">
           <a
             className={
-              'font-light tracking-normal transition-colors text-gray-800 hover:text-sky-500  dark:text-white'
+              'font-regular tracking-normal transition-colors text-gray-800 hover:text-sky-500  dark:text-white'
             }
           >
             /

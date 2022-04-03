@@ -5,9 +5,9 @@ import profile from '../public/images/profile.png';
 const About = () => {
   return (
     <div className="container px-4 mx-auto">
-      <div className="flex flex-col-reverse text-center lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 lg:text-left">
+      <div className="flex flex-col-reverse text-center lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 lg:text-left font-inter">
         <div className="lg:px-4 lg:mt-12 ">
-          <h1 className="text-3xl font-bold text-gray-900 lg:text-4xl dark:text-white">
+          <h1 className="text-3xl font-bold text-gray-900 lg:text-3xl dark:text-white">
             👋 Hi there, I'm Lucas.
           </h1>
           <div className="mt-6 text-gray-900 dark:text-white">
@@ -24,8 +24,8 @@ const About = () => {
             alt="Profile"
             priority={true}
             className="rounded-full"
-            width={160}
-            height={160}
+            width={170}
+            height={170}
             placeholder="blur"
           />
         </div>
