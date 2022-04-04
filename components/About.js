@@ -11,7 +11,7 @@ const About = () => {
             👋 Hi there, I'm Lucas.
           </h1>
           <div className="mt-6 text-gray-900 dark:text-white">
-            <p className="mb-4">
+            <p className="mb-4 dark:text-grey">
               I'm a 22 years old front-end developer. As an enthusiast of
               technology, I enjoy the process of problem-solving and learning
               about new things in the software development field.
