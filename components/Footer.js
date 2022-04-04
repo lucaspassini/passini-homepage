@@ -3,12 +3,12 @@ import { AiFillGithub, AiFillLinkedin, AiOutlineTwitter } from 'react-icons/ai';
 
 const Footer = () => {
   return (
-    <div className="py-6 mt-12 lg:mt-18 sm:pb-36 sm:py-12">
-      <div className="max-w-4xl px-4 mx-auto text-gray-800 dark:text-white font-inter">
+    <div className="py-6 mt-12 lg:mt-18 sm:pb-36 sm:py-12 font-firacode font-regular">
+      <div className="max-w-4xl px-4 mx-auto text-gray-800 dark:text-white">
         <div className="pb-8 mb-2 border-t-2 border-gray-600 dark:border-white-300 opacity-20"></div>
         <div className="flex flex-col items-center justify-between lg:flex-row">
           <p>💻 Built with Next.js, Tailwind and Vercel.</p>
-          <div className="flex flex-wrap pt-2 space-x-2 font-medium sm:space-x-4 lg:pt-0">
+          <div className="flex flex-wrap pt-2 space-x-2 sm:space-x-4 lg:pt-0">
             <a
               href="https://github.com/lucaspassini"
               className={'transition-colors hover:text-gray-500'}
