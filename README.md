@@ -7,8 +7,7 @@
 
 ## 📕 About
 
-A static personal homepage made with Next.js, it has a dark mode template and minimalist design for a
-modern approach.
+A static personal homepage made with Next.js. This project utilizes the next-themes npm package for a dark mode template.
 
 ## 🧑🏻‍💻 Installation
 
