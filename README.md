@@ -1,4 +1,4 @@
-## `Next.js Homepage`
+## `Homepage`
 
 </p>
 
