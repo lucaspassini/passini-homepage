@@ -35,5 +35,6 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 ## 💻 Technologies
 
+- [React.js](https://beta.reactjs.org/)
 - [Next.js](https://nextjs.org/docs)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
