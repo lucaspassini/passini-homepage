@@ -1,10 +1,9 @@
 <img src="public/favicon.ico" width="48"/>
   
-  
 ## Homepage
 
 [![Author](https://img.shields.io/badge/author-lucaspassini-191F2B?style=flat-square)](https://github.com/lucaspassini)
-[![Stars](https://img.shields.io/github/stars/lucaspassini/passini-homepage?color=191F2B&style=flat-square)](https://github.com/lucaspassinipassini-homepage/stargazers)
+[![Stars](https://img.shields.io/github/stars/lucaspassini/passini-homepage?color=191F2B&style=flat-square)](https://github.com/lucaspassini/passini-homepage/stargazers)
 [![Forks](https://img.shields.io/github/forks/lucaspassini/passini-homepage?color=%23191F2B&style=flat-square)](https://github.com/lucaspassini/passini-homepage/network/members)
 
 
