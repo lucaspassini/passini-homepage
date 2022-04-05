@@ -1,10 +1,18 @@
 <img src="public/favicon.ico" width="48"/>
   
-## `Homepage`
+  
+## Homepage
+
+[![Author](https://img.shields.io/badge/author-lucaspassini-191F2B?style=flat-square)](https://github.com/lucaspassini)
+[![Stars](https://img.shields.io/github/stars/lucaspassini/passini-homepage?color=191F2B&style=flat-square)](https://github.com/lucaspassinipassini-homepage/stargazers)
+[![Forks](https://img.shields.io/github/forks/lucaspassini/passini-homepage?color=%23191F2B&style=flat-square)](https://github.com/lucaspassini/passini-homepage/network/members)
 
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/47937044/161846273-e5574108-3cbc-4ebe-9f1b-0eae6657d1ec.png" width="740" alt="Desktop Dark" />
+<img src="https://user-images.githubusercontent.com/47937044/161846273-e5574108-3cbc-4ebe-9f1b-0eae6657d1ec.png" width="700" alt="Desktop Dark" />
+</p>
+
+
 
 ## 📕 About
 
