@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/47937044/161467596-01c647c9-45fa-45c7-adf0-92dccbfe8d8e.png" width="650" alt="Desktop Dark" />
+<img src="https://user-images.githubusercontent.com/47937044/161655496-db658eb0-61b0-485b-86e5-7307f2adafa4.png" width="650" alt="Desktop Dark" />
 
 ## 📕 About
 
