@@ -8,7 +8,7 @@
 
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/47937044/161939635-0853981e-617c-4fa5-8791-264c6a47a309.png" width="700" alt="Desktop Dark" />
+<img src="https://user-images.githubusercontent.com/47937044/162525039-a2ffdb60-b2e8-483b-bf06-7bbd1698a63e.png" width="700" alt="Desktop Dark" />
 </p>
 
 
