@@ -6,17 +6,24 @@
 [![Stars](https://img.shields.io/github/stars/lucaspassini/passini-homepage?color=191F2B&style=flat-square)](https://github.com/lucaspassini/passini-homepage/stargazers)
 [![Forks](https://img.shields.io/github/forks/lucaspassini/passini-homepage?color=%23191F2B&style=flat-square)](https://github.com/lucaspassini/passini-homepage/network/members)
 
-
 <p align="left">
 <img src="https://user-images.githubusercontent.com/47937044/162531140-56b36897-0160-46a1-8743-7e133e052e1a.png" width="700" alt="Desktop Dark" />
 </p>
-
 
 ## 📕 About
 
 A static personal homepage made with Next.js. This project utilizes the next-themes npm package for a dark mode template.
 
 ## 🧑🏻‍💻 Installation
+
+Clone the repository and run the development server:
+
+```bash
+$ git clone https://github.com/lucaspassini/passini-homepage.git
+$ cd passini-homepage
+$ npm install
+$ npm run dev
+```
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
