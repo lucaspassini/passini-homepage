@@ -2,9 +2,9 @@ import React from 'react';
 import Image from 'next/image';
 import profile from '../public/images/profile.png';
 
-const About = () => {
+const AboutHome = () => {
   return (
-    <div className="container px-4 mx-auto">
+    <div className="container px-4 mx-auto antialiased">
       <div className="flex flex-col-reverse text-center lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 lg:text-left">
         <div className="lg:px-4 lg:mt-12 ">
           <h1 className="text-3xl font-bold text-gray-900 lg:text-4xl dark:text-white font">
@@ -34,4 +34,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default AboutHome;
